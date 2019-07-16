@@ -23,7 +23,7 @@ const devSass = () =>
     //get our sources via sourceMaps
     .pipe(sourceMaps.write())
     //where to save our final, compressed css file
-    .pipe(gulp.dest('dist/css'))
+    .pipe(gulp.dest('dist/assets/css'))
     //notify browserSync to refresh
     .pipe(browser.reload({
         stream: true

@@ -14,7 +14,7 @@ var beautify=require("./gulp/task/beautifier");
 var static =require("./gulp/task/static");
 var Path=require("./gulp/task/prodPath");
 
-gulp.task('dev', gulp.series(
+gulp.task('dev', gulp.series(    
     static,
    // w3c,
     css.devcss,
@@ -23,7 +23,7 @@ gulp.task('dev', gulp.series(
     Images.devOptimizeImages,
     html,
     beautify,
-    CleanCss,
+    CleanCss,   
     browserSync
 ));
 
@@ -39,15 +39,14 @@ gulp.task('watch', function () {
 gulp.task('prod', gulp.series(
     clean,
     static,
-    // w3c,
+    w3c,
     css.css,
     sass.Sass,
     JsFile.Js,
     Images.OptimizeImages,
     html,
-    CleanCss,
-    Path,
+    CleanCss, 
     Createzip
 ));
 
-gulp.task('default', gulp.parallel('dev', 'watch'));
+gulp.task('default', gulp.parallel(clean,'dev', 'watch'));

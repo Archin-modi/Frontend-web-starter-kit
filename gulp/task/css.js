@@ -8,7 +8,7 @@ const devcss = () => gulp.src('src/css/**/*.css')
     .pipe(autoprefixer({
         cascade: true
     }))
-    .pipe(gulp.dest('dist/css'))
+    .pipe(gulp.dest('dist/assets/css'))
     .pipe(browser.reload({
         stream: true
     }));

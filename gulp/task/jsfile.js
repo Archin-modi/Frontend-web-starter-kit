@@ -6,7 +6,7 @@ const devJs = () => gulp.src('src/js/**/*.js')
     .pipe(uglify({
         compress: true
     }))
-    .pipe(gulp.dest('dist/js'))
+    .pipe(gulp.dest('dist/assets/js'))
     .pipe(browser.reload({
         stream: true
     }));

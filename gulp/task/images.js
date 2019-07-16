@@ -4,7 +4,7 @@ var browser=require("./../browser-sync");
 
 const devOptimizeImages = () => gulp.src('src/images/*')
     .pipe(image())
-    .pipe(gulp.dest('dist/images'))
+    .pipe(gulp.dest('dist/assets/images'))
     .pipe(browser.reload({
         stream: true
     }));

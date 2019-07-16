@@ -1,8 +1,6 @@
-var gulp = require("gulp"),
-    shell = require('gulp-shell');
+var gulp = require("gulp");
+var del = require('del');
 
-const clean = shell.task([
-    'rm -rf dist'
-]);
+const clean = del.sync('dist')
 
 module.exports = clean;
