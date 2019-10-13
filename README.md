@@ -1,9 +1,9 @@
 # Frontend Web Starter Kit  (v1.0.0)
-[![GitHub issues](https://img.shields.io/github/issues/Archin-modi/Frontend-web-starter-kit.svg?style=for-the-badge)](https://github.com/Archin-modi/Frontend-web-starter-kit/issues)
-[![GitHub forks](https://img.shields.io/github/forks/Archin-modi/Frontend-web-starter-kit.svg?style=for-the-badge)](https://github.com/Archin-modi/Frontend-web-starter-kit/network)
-[![GitHub stars](https://img.shields.io/github/stars/Archin-modi/Frontend-web-starter-kit.svg?style=for-the-badge)](https://github.com/Archin-modi/Frontend-web-starter-kit/stargazers)
-[![GitHub license](https://img.shields.io/github/license/Archin-modi/Frontend-web-starter-kit.svg?style=for-the-badge)](https://github.com/Archin-modi/Frontend-web-starter-kit/blob/master/LICENSE)
-[![Twitter](https://img.shields.io/twitter/url/https/github.com/Archin-modi/Frontend-web-starter-kit.svg?style=for-the-badge)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FArchin-modi%2FFrontend-web-starter-kit)
+[![GitHub issues](https://img.shields.io/github/issues/Archin-modi/Frontend-web-starter-kit.svg?style=for-the-badge)](https://github.com/archinmodi/Frontend-web-starter-kit/issues)
+[![GitHub forks](https://img.shields.io/github/forks/Archin-modi/Frontend-web-starter-kit.svg?style=for-the-badge)](https://github.com/archinmodi/Frontend-web-starter-kit/network)
+[![GitHub stars](https://img.shields.io/github/stars/Archin-modi/Frontend-web-starter-kit.svg?style=for-the-badge)](https://github.com/archinmodi/Frontend-web-starter-kit/stargazers)
+[![GitHub license](https://img.shields.io/github/license/Archin-modi/Frontend-web-starter-kit.svg?style=for-the-badge)](https://github.com/archinmodi/Frontend-web-starter-kit/blob/master/LICENSE)
+[![Twitter](https://img.shields.io/twitter/url/https/github.com/archinmodi/Frontend-web-starter-kit.svg?style=for-the-badge)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FArchin-modi%2FFrontend-web-starter-kit)
 
 ## Overview
 
