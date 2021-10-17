@@ -54,7 +54,7 @@ Now, we officially aim to support the last four versions of the following browse
 
 ## Author
 
-👤 **Archin modi <archinmodi@gmail.com>**
+👤 **Archin modi**
 
 - Website: https://archinmodi.com
 - Twitter: [@archinmodi](https://twitter.com/archinmodi)
